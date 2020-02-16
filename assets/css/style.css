@@ -1,0 +1,175 @@
+/* body {
+    background-image: url("../../assets/images/herringbone.png");
+    margin: 0;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.wrapper {
+    font-family: Arial, "HelveticaNeue", Helvetica, sans-serif;
+    color: #777777;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    min-height: 100%;
+    float: unset;
+    position: relative;
+    margin-bottom: -50px;
+    width: 960px;
+    margin: auto;
+    padding-left: 20px;
+    padding-bottom: 100px;
+}
+
+.header {
+    background-color: #ffffff;
+    color: #777777;
+    padding: 20px;
+    border-bottom: #dddddd;
+    border-bottom-style: solid;
+}
+
+.nav {
+    margin: 13px;
+    float: right;
+    text-align: center;
+}
+
+.nav-item-link {
+    padding: 10px;
+}
+
+.nav-item-link:not(:last-child) {
+    box-shadow: 4px 0px 0px -3px #dddddd;
+}
+
+h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    display: inline;
+    padding: inherit;
+}
+
+h2 {
+    font-family: "Georgia", Times, "Times New Roman", serif;
+    color: #4aaaa5;
+    border-bottom: solid;
+    border-color: #dddddd;
+}
+
+.footer,
+.push {
+    text-align: center;
+    border-top: 8px solid #4aaaa5;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #666666;
+    color: #dddddd;
+    height: 50px;
+}
+
+a:link {
+    color: #777777;
+}
+
+a:visited {
+    color: #dddddd;
+}
+
+a:hover {
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+#headshot {
+    float: left;
+    padding: 15px;
+    padding-bottom: 20px;
+}
+
+#projectlabel_1 {
+    left: 20px;
+    position: absolute;
+    top: 297px;
+    background-color: teal;
+    width: 316px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+}
+
+#projectlabel_2 {
+    left: 340px;
+    position: absolute;
+    top: 297px;
+    background-color: teal;
+    width: 316px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    right: 114px;
+    padding-top: 15px;
+}
+
+#projectlabel_3 {
+    left: 20px;
+    position: absolute;
+    bottom: 454px;
+    background-color: teal;
+    width: 316px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+}
+
+#projectlabel_4 {
+    position: absolute;
+    top: 611px;
+    background-color: teal;
+    width: 316px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    right: 324px;
+    padding-top: 15px;
+}
+
+#projectlabel_5 {
+    left: 20px;
+    position: absolute;
+    bottom: 125px;
+    background-color: teal;
+    width: 316px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+#Submit {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-style: solid;
+    border-color: #dddddd;
+} */
